@@ -1,3 +1,5 @@
+#I’m a senior AI / Copilot Studio architect who understands RAG, Dataverse, automation patterns, and can explain tradeoffs.
+
 # Copilot Studio, RAG, and AI Automation Portfolio
 
 This repository demonstrates how I design and reason about **AI-powered business systems** using:
