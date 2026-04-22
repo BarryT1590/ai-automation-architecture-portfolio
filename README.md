@@ -1,4 +1,4 @@
-#I’m a senior AI / Copilot Studio architect who understands RAG, Dataverse, automation patterns, and can explain tradeoffs.
+# I’m a senior AI / Copilot Studio architect who understands RAG, Dataverse, automation patterns, and can explain tradeoffs.
 
 # Copilot Studio, RAG, and AI Automation Portfolio
 
